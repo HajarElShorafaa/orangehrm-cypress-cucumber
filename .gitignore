@@ -1,6 +1,13 @@
 # Node.js
 node_modules/
-dist/
-.env
+package-lock.json
+
+# Cypress
 cypress/videos/
 cypress/screenshots/
+
+# System
+.DS_Store
+Thumbs.db
+.env
+dist/
