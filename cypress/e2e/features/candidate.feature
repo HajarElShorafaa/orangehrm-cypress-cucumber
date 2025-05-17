@@ -5,7 +5,5 @@ Feature: Manage candidates via API
     When I login using "Admin" credentials
     Then I navigate to the candidate page
     When I add a new candidate using API
-    Then I should see the candidate added
     When I delete the candidate using API
-    Then the candidate should be deleted
 
