@@ -1,4 +1,4 @@
-Features Covered
+Features Covered for main task (login.feature)
 
 1. Login to OrangeHRM
 
@@ -16,6 +16,10 @@ Features Covered
 
 8. Verify record count decreased
 
+Features Covered for bonus task (candidate.feature)
+
+1. add candidate using API
+2. delete candidate using API
 
 Steps to run the project:
 
